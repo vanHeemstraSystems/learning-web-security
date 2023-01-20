@@ -47,7 +47,7 @@ See [README.md](./300/README.md)
 
 See [README.md](./400/README.md)
 
-### Step 5: Create a Learning Path
+### Step 5: Create a Learning Plan
 
 See [README.md](./500/README.md)
 
