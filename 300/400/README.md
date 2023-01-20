@@ -55,11 +55,11 @@ See [README.md](./500/README.md)
 
 See [README.md](./600/README.md)
 
+--- PHASE TWO: LEARNING ---
+
 ### Step 7: ...
 
 See [README.md](./700/README.md)
-
---- PHASE TWO: LEARNING ---
 
 ### Step 8: ...
 
