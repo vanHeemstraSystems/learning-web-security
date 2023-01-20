@@ -39,36 +39,36 @@ See [README.md](./100/README.md)
 
 See [README.md](./200/README.md)
 
-### Step 3: ...
+### Step 3: Define Success
 
 See [README.md](./300/README.md)
 
-### Step 4: ...
+### Step 4: Find Resources
 
 See [README.md](./400/README.md)
 
-### Step 5: ...
+### Step 5: Create a Learning Path
 
 See [README.md](./500/README.md)
 
-### Step 6: ...
+### Step 6: Filter Resources
 
 See [README.md](./600/README.md)
 
 --- PHASE TWO: LEARNING ---
 
-### Step 7: ...
+### Step 7: Learn enough to get started
 
 See [README.md](./700/README.md)
 
-### Step 8: ...
+### Step 8: Play around
 
 See [README.md](./800/README.md)
 
-### Step 9: ...
+### Step 9: Learn enough to do something useful
 
 See [README.md](./900/README.md)
 
-### Step 10: ...
+### Step 10: Teach
 
 See [README.md](./1000/README.md)
