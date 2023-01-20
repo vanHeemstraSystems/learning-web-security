@@ -5,8 +5,7 @@ Based on "Planning Your Minimum Viable Product (MVP)" at https://medium.com/@Clr
 
 ![User_Stories_Master_Security](https://user-images.githubusercontent.com/1499433/213723870-f2691b0a-e7c2-4317-9cbe-f701e25e7ad4.jpg)
 
-
-Planning Your Minimum Viable Product (MVP)
+**Planning Your Minimum Viable Product (MVP)**
 
 ## 2. Finding the Opportunities
 
@@ -28,7 +27,7 @@ Planning Your Minimum Viable Product (MVP)
 
 ## (User) Stories for **Master Cyber Security**:
 
-Based on "10-Step Learning" at ...
+Based on "10-Step Learning System by John Sonmez" at https://medium.com/the-polymath-project/how-to-learn-anything-the-sonmez-10-step-system-30f343cf1112
 
 ### Step 1: Get the Big Picture
 
