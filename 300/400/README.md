@@ -29,6 +29,8 @@ Based on "Planning Your Minimum Viable Product (MVP)" at https://medium.com/@Clr
 
 Based on "10-Step Learning System by John Sonmez" at https://medium.com/the-polymath-project/how-to-learn-anything-the-sonmez-10-step-system-30f343cf1112 See also https://github.com/vanHeemstraSystems/10-step-learning-system
 
+Based on "Github Basic Kanban" at https://github.com/vanHeemstraSystems/github-basic-kanban
+
 --- PHASE ONE: RESEARCH ---
 
 ### Step 1: Get the Big Picture
