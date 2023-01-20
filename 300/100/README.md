@@ -2,7 +2,7 @@
 
 Based on "Planning Your Minimum Viable Product (MVP)" at https://medium.com/@ClrMobile/planning-a-minimum-viable-product-a-step-by-step-guide-6f387d657870
 
-Initiative: **Security**
+Initiative: **Master Security**
 
 Planning Your Minimum Viable Product (MVP)
 
