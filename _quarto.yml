@@ -9,8 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: act-i.qmd
-        text: Act I
+      - href: initiative.qmd
+        text: Initiative
       - href: act-ii.qmd
         text: Act II
       - href: act-iii.qmd
