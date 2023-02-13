@@ -11,10 +11,10 @@ website:
       - about.qmd
       - href: initiative.qmd
         text: Initiative
-      - href: act-ii.qmd
-        text: Act II
-      - href: act-iii.qmd
-        text: Act III
+      - href: use-cases.qmd
+        text: Use Cases
+      - href: themes.qmd
+        text: Themes
 
 format:
   html:
