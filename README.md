@@ -7,7 +7,7 @@ Based on "Learning" at https://github.com/vanHeemstraSystems/learning
 
 Based on "Github Basic Kanban" at https://github.com/vanHeemstraSystems/github-basic-kanban
 
-Can be read as "Learning - Security" at https://app.gitbook.com/o/NOqeW3nD9tJaUGh3bDjj/s/toNbM1eDXZFuJalsi1aZ/
+Can be read as "Learning - Security" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/VaiLNtxZulQ69lKSHsMr/
 
 Can be browsed as "Learning - Security" at https://vanheemstrasystems.github.io/learning-security/
 
