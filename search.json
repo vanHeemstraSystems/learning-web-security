@@ -7,25 +7,18 @@
     "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-security-themes/"
   },
   {
-    "objectID": "use-cases.html",
-    "href": "use-cases.html",
-    "title": "Use Cases",
-    "section": "",
-    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-security-use-cases/"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Learning - Security",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "initiative.html",
     "href": "initiative.html",
     "title": "Initiative",
     "section": "",
     "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-security-initiative/"
+  },
+  {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Learning - Security",
+    "section": "",
+    "text": "Table of contents\n\nLearning Security"
   },
   {
     "objectID": "about.html",
@@ -35,10 +28,17 @@
     "text": "About this site"
   },
   {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Learning - Security",
     "section": "",
-    "text": "Table of contents\n\nLearning Security"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "use-cases.html",
+    "href": "use-cases.html",
+    "title": "Use Cases",
+    "section": "",
+    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-security-use-cases/"
   }
 ]
