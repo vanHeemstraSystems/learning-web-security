@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Security](README.md)
+* [Learning Cyber Security](README.md)
