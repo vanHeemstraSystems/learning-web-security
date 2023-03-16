@@ -1,5 +1,5 @@
 ---
-title: "Learning - Cyber Security"
+title: "Learning - Cloud Security"
 ---
 
 This is a Quarto website.
