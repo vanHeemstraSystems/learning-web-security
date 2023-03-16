@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Cyber Security](README.md)
+* [Learning Cloud Security](README.md)
