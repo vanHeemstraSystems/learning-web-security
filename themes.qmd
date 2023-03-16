@@ -4,4 +4,4 @@ title: "Themes"
 
 About Themes
 
-See <https://vanheemstrasystems.github.io/learning-cyber-security-themes/>
+See <https://vanheemstrasystems.github.io/learning-cloud-security-themes/>
