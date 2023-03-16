@@ -24,7 +24,7 @@ Based on "Planning Your Minimum Viable Product (MVP)" at https://medium.com/@Clr
 
 - Use "How might we" Statements or similar method to summarize the Pains and Gains you have identified.
 
-## (User) Stories for **Master Cyber Security**:
+## (User) Stories for **Master Cloud Security**:
 
 Based on "10-Step Learning System by John Sonmez" at https://medium.com/the-polymath-project/how-to-learn-anything-the-sonmez-10-step-system-30f343cf1112 See also https://github.com/vanHeemstraSystems/10-step-learning-system
 
