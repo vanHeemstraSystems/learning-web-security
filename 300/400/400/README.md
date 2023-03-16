@@ -2,7 +2,7 @@
 
 Gather resources from the Internet, libraries, forums, etc. that might be useful for your learning project.
 
-See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/2/views/1?pane=issue&itemId=18547711
+See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/9/views/1?pane=issue&itemId=18547711
 
 ## Add Images to Pinterest
 
