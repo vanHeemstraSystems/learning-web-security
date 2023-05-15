@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Cloud Security](README.md)
+* [Learning Web Security](README.md)
