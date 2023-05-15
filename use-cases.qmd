@@ -4,4 +4,4 @@ title: "Use Cases"
 
 About Use Cases
 
-See <https://vanheemstrasystems.github.io/learning-cloud-security-use-cases/>
+See <https://vanheemstrasystems.github.io/learning-web-security-use-cases/>
