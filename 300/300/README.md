@@ -2,4 +2,4 @@
 
 Based on "Epics are Dead, Here's What We Should Do Instead" at https://medium.freecodecamp.org/epics-are-dead-heres-what-we-should-do-instead-279bada1e644
 
-![Learning-Cloud-Security_Themes](https://user-images.githubusercontent.com/1499433/225680902-071cf85c-f819-4dbc-9d52-97065df08e66.png)
+![Learning-Web-Security_Themes](https://github.com/vanHeemstraSystems/learning-web-security/assets/1499433/e1eb2623-7b86-4fb3-ae24-24c0c0c8bcf6)
