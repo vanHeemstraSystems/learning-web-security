@@ -1,3 +1,3 @@
 # 200 - Use Case(s) Diagram
 
-![Learning-Cloud-Security_Use-Cases](https://user-images.githubusercontent.com/1499433/225680517-e57068d5-9285-4ac6-82d5-146f9ab736f5.png)
+![Learning-Web-Security_Use-Cases](https://github.com/vanHeemstraSystems/learning-web-security/assets/1499433/bb3dbca0-e700-4bda-b343-9418ca8ac87d)
