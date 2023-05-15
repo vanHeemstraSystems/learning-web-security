@@ -2,7 +2,13 @@
 
 Based on "Planning Your Minimum Viable Product (MVP)" at https://medium.com/@ClrMobile/planning-a-minimum-viable-product-a-step-by-step-guide-6f387d657870
 
-![Learning-Cloud-Security_User-Stories](https://user-images.githubusercontent.com/1499433/225681252-6ef8e42f-c4d7-4b48-8fb1-8db83a74c350.png)
+![Learning-Web-Security-Server-Side_User-Stories](https://github.com/vanHeemstraSystems/learning-web-security/assets/1499433/4b75bb6d-35fd-4bc4-ac1a-5b8713bfbf5b)
+
+Server-Side Web Security
+
+![Learning-Web-Security-Client-Side_User-Stories](https://github.com/vanHeemstraSystems/learning-web-security/assets/1499433/368900ac-e3a4-410e-9fbf-d9a51aef46ae)
+
+Client-Side Web Security
 
 **Planning Your Minimum Viable Product (MVP)**
 
