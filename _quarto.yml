@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Learning - Cloud Security"
+  title: "Learning - Web Security"
   navbar:
     left:
       - href: index.qmd
