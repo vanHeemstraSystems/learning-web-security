@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "themes.html",
+    "href": "themes.html",
+    "title": "Themes",
+    "section": "",
+    "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-web-security-themes/"
+  },
+  {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Table of contents\n\nLearning Web Security"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning - Web Security",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "initiative.html",
+    "href": "initiative.html",
+    "title": "Initiative",
+    "section": "",
+    "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-web-security-initiative/"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,38 +35,10 @@
     "text": "About this site"
   },
   {
-    "objectID": "initiative.html",
-    "href": "initiative.html",
-    "title": "Initiative",
-    "section": "",
-    "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-cyber-security-initiative/"
-  },
-  {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
-    "title": "Learning - Cyber Security",
-    "section": "",
-    "text": "Table of contents\n\nLearning Cyber Security"
-  },
-  {
-    "objectID": "themes.html",
-    "href": "themes.html",
-    "title": "Themes",
-    "section": "",
-    "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-cyber-security-themes/"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Learning - Cyber Security",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "use-cases.html",
     "href": "use-cases.html",
     "title": "Use Cases",
     "section": "",
-    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-cyber-security-use-cases/"
+    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-web-security-use-cases/"
   }
 ]
